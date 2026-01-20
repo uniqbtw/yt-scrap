@@ -1,5 +1,5 @@
 {
-    "name": "yt-ext",
+    "name": "yt-scrap",
     "version": "1.0.0",
     "description": "A simple YouTube scraper.",
     "main": "dist/index.js",
@@ -24,14 +24,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/uniqbtw/yt-ext.git"
+        "url": "git+https://github.com/uniqbtw/yt-scrap.git"
     },
     "author": "uniqbtw",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/uniqbtw/yt-ext/issues"
+        "url": "https://github.com/uniqbtw/yt-scrap/issues"
     },
-    "homepage": "youtube-ext.js.org",
+    "homepage": "",
     "devDependencies": {
         "@ohmyvm/vm": "^0.1.0",
         "@types/node": "^20.12.8",
